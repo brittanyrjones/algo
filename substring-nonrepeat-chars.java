@@ -1,6 +1,8 @@
 // program to find the length of the longest substring 
 // without repeating characters 
 
+
+// returning string, need to return int
 public static String getLongestNonRepeatingString(String inputStr){
     if(inputStr == null){
         return null;
